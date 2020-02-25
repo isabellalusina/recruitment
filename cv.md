@@ -9,11 +9,6 @@
 **Project**: Flowers webshop     
 **Technologies**: CSS 3, HTML 5, Javascript - Vue.js  
 
-**2019 - 2020**:  
-**Project**: School Management System  
-**Description**: Web application designed for school management  
-**Technologies**: CSS 3, HTML 5, Javascript - Vue.js  
-
 ## COMPETENCIES:
 **General Language**: Javascript - 5/10  
 **Markup Language**: HTML 5 - 4/10  
