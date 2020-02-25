@@ -6,8 +6,7 @@
 
 ## PERSONAL PROJECTS:
 **2019 - Now**:  
-**Project**: Flowers webshop    
-**Description**: Web application designed for school management  
+**Project**: Flowers webshop     
 **Technologies**: CSS 3, HTML 5, Javascript - Vue.js  
 
 **2019 - 2020**:  
