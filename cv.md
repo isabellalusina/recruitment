@@ -2,13 +2,18 @@
 
 **Name**: Isabella Lusina  
 **Contact**: isabella.lusina@gmail.com  
-**Mobile**: 518 859 552  
+**Mobile**: 519 481 249   
 
 ## PERSONAL PROJECTS:
 **2019 - Now**:  
-**Project**: School Management System      
-**Description**: Web application designed for school management.  
-**Technologies**: CSS 3, HTML 5, Javascript - Vue.js
+**Project**: Flowers webshop    
+**Description**: Web application designed for school management  
+**Technologies**: CSS 3, HTML 5, Javascript - Vue.js  
+
+**2019 - 2020**:  
+**Project**: School Management System  
+**Description**: Web application designed for school management  
+**Technologies**: CSS 3, HTML 5, Javascript - Vue.js  
 
 ## COMPETENCIES:
 **General Language**: Javascript - 5/10  
